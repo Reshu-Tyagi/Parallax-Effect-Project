@@ -4,6 +4,7 @@ A simple and interactive project built using **HTML, and CSS**.
 
 ## Live Demo
 🔗 [(https://reshu-tyagi-parallax-effect-project.vercel.app/)](https://reshu-tyagi-parallax-effect-project.vercel.app/)
+
 ---
 
 ## About the Project
